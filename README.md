@@ -3,6 +3,7 @@
 # Me name Nazar
 ## this is i
 
-![this is link ](https://www.google.com/url?sa=i&url=https%3A%2F%2Flfriend.com.ua%2Fvulichnij-kit-pljusi-i-minusi%2F&psig=AOvVaw2iHmuZEENmT3UafrZ4YpVi&ust=1732553424952000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPi-hM629YkDFQAAAAAdAAAAABAW)
+![image](https://github.com/user-attachments/assets/8ee5c81f-2631-4113-982c-d7f61e576529)
+
 
 let str ='this is js code'
